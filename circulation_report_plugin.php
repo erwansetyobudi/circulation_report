@@ -12,4 +12,4 @@
 $plugin = \SLiMS\Plugins::getInstance();
 
 // registering menus
-$plugin->registerMenu('reporting', 'Circulation Report', __DIR__ . '/index.php');
+$plugin->registerMenu('reporting', 'Circulation Statistics', __DIR__ . '/index.php');
